@@ -17,3 +17,5 @@ CodeSprint is a performance tracking environment engineered using React. It impl
 ## Running Instructions
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
+
+----------------------------------------------------------------------------------------------------------
