@@ -8,7 +8,7 @@ CodeSprint is a performance tracking environment engineered using React. It impl
 
 *  **Reactive Mathematical Derivations:** Calculates instant aggregate variables (Max Streaks and Velocity Progress Ratios) on every hook layout render pass without computational lag.
 *  **State Persistence Redirection:** Maps complex nested data array elements straight into persistent local browser registers.
-
+----------------------------------------------------------------------------
 ## Running Instructions
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
