@@ -1,5 +1,5 @@
 #  CodeSprint — Gamified Technical Habit Tracker & Local Sync Ledger
-
+--------------------------------------------------------------------------
 CodeSprint is a performance tracking environment engineered using React. It implements continuous functional collection aggregations to track progress velocities alongside variable mathematical streak increments, syncing state arrays directly with asynchronous `localStorage` cache frames.
 
 ## Architectural Execution Metrics
