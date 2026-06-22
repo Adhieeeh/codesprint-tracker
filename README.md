@@ -5,7 +5,7 @@ CodeSprint is a performance tracking environment engineered using React. It impl
 -----------------------------------------------------------------------------
 
 ## Preview
-!
+![]
 ## Architectural Execution Metrics
 
 *  **Reactive Mathematical Derivations:** Calculates instant aggregate variables (Max Streaks and Velocity Progress Ratios) on every hook layout render pass without computational lag.
